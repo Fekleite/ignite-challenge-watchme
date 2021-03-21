@@ -13,6 +13,7 @@
 - <a href="https://pt-br.reactjs.org/" > React JS </a>
 - <a href="https://www.typescriptlang.org/"> TypeScript </a>
 - <a href="https://sass-lang.com"> SASS </a>
+- <a href="https://github.com/typicode/json-server"> JSON Server </a>
 
 </br>
 </br>
